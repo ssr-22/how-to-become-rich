@@ -9,5 +9,8 @@
         <module name="how-to-become-rich" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="how-to-become-rich" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
