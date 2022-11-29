@@ -1,0 +1,45 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/shen/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar'
+-encoding
+'GBK'
+-protected
+-source
+'8'
+-sourcepath
+'D:/Vlog/JAVA/how-to-become-rich/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Vlog/JAVA/how-to-become-rich/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'how-to-become-rich 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/Vlog/JAVA/how-to-become-rich/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'how-to-become-rich 1.0.0 API'
+org.shen
+'D:/Vlog/JAVA/how-to-become-rich/src/main/java/org/shen/Main.java'
+'D:/Vlog/JAVA/how-to-become-rich/src/main/java/org/shen/Millionaire.java'
+C:\Users\shen\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1661999152530
+D:\Vlog\JAVA\how-to-become-rich\src\main\java = 1669690634367
+D:\Vlog\JAVA\how-to-become-rich\target\apidocs\allclasses-frame.html = 1669693661254
+D:\Vlog\JAVA\how-to-become-rich\target\apidocs\allclasses-noframe.html = 1669693661258
+D:\Vlog\JAVA\how-to-become-rich\target\apidocs\constant-values.html = 1669693661226
+D:\Vlog\JAVA\how-to-become-rich\target\apidocs\deprecated-list.html = 1669693661252
+D:\Vlog\JAVA\how-to-become-rich\target\apidocs\help-doc.html = 1669693661262
+D:\Vlog\JAVA\how-to-become-rich\target\apidocs\index-all.html = 1669693661248
+D:\Vlog\JAVA\how-to-become-rich\target\apidocs\index.html = 1669693661259
+D:\Vlog\JAVA\how-to-become-rich\target\apidocs\overview-tree.html = 1669693661244
+D:\Vlog\JAVA\how-to-become-rich\target\apidocs\package-list = 1669693661210
+D:\Vlog\JAVA\how-to-become-rich\target\apidocs\script.js = 1669693661262
+D:\Vlog\JAVA\how-to-become-rich\target\apidocs\stylesheet.css = 1669693660067
